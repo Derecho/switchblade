@@ -4,9 +4,8 @@ There are some other loaders, but they show a black screen or require special me
 This loader is made in C, and will run silent out-of-the-box. It will not show a black window, and it will not run any scriptservers.
 
 If you're looking for a package with this loader and the Launchpad program, go to:
-http://wiki.hak5.org/wiki/Switchblade_Packages 
-and look under "Alternative Loaders".
-Look for the one made by krisje8 (me).
+http://krisje8.com/projects/switchblade/
+and the go to the 'Downloads' page.
 
 If you're looking for the sourcecode and want to contribute, you're at the right place.
 The project was made with Dev-Cpp, and the main.c should be quite self-explanatory.
